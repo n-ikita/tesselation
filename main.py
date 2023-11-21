@@ -1,7 +1,7 @@
 """
 Case-study №3
-Students: Kuznetsov N. 70%
-          Shishko S.   65%
+Students: Kuznetsov N. 100%
+          Shishko S.   100%
 """
 
 
